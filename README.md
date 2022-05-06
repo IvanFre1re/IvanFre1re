@@ -12,6 +12,7 @@ repository!😄
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" style="max-width:100%;" title="HTML5">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" style="max-width:100%;" title="CSS3">
   
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanFre1re&layout=compact)](https://github.com/IvanFre1re)
   
   </p>
   
